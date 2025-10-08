@@ -2,7 +2,7 @@
 
 ![My image](BB/000001.jpg)
 
-Watch the video: https://youtu.be/byiC6aOHaCo
+Watch the video (14sec): https://youtu.be/byiC6aOHaCo
 
 Sample output file:
 | frame_id | track_id |  x1  |  y1  |  x2  |  y2  |
