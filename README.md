@@ -19,7 +19,7 @@ Sample output file:
 
 
 Person movement trajectories:
-![Trajectories](BB/trajectories.jpg)
+![Trajectories](trajectories.jpg)
 
 -------------
 Sample input used from MOT20 dataset https://motchallenge.net/data/MOT20Det/
