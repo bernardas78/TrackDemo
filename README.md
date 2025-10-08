@@ -18,5 +18,8 @@ Sample output file:
 - **x1**, **y1**, **x2**, **y2** — The bounding box.  
 
 
+Person movement trajectories:
+![Trajectories](BB/trajectories.jpg)
+
 -------------
 Sample input used from MOT20 dataset https://motchallenge.net/data/MOT20Det/
