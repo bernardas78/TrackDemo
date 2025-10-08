@@ -19,4 +19,4 @@ Sample output file:
 
 
 -------------
-Sample video used from MOT20 dataset
+Sample input used from MOT20 dataset https://motchallenge.net/data/MOT20Det/
